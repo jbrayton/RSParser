@@ -828,6 +828,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1AF5AA7B22B17D2B0058F6C8 /* RSParser_mac_target.xcconfig */;
 			buildSettings = {
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -835,6 +838,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1AF5AA7B22B17D2B0058F6C8 /* RSParser_mac_target.xcconfig */;
 			buildSettings = {
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTS_MACCATALYST = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
