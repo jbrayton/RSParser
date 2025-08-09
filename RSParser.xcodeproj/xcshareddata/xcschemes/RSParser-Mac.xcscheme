@@ -4,7 +4,8 @@
    version = "1.7">
    <BuildAction
       parallelizeBuildables = "YES"
-      buildImplicitDependencies = "YES">
+      buildImplicitDependencies = "YES"
+      buildArchitectures = "Automatic">
       <BuildActionEntries>
          <BuildActionEntry
             buildForTesting = "YES"
@@ -14,8 +15,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "216FF1642E46C847002F1B6E"
-               BuildableName = "RSParser_Mac.framework"
+               BlueprintIdentifier = "21E717272E47FA45003F245A"
+               BuildableName = "RSParser-Mac.framework"
                BlueprintName = "RSParser-Mac"
                ReferencedContainer = "container:RSParser.xcodeproj">
             </BuildableReference>
@@ -49,8 +50,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "216FF1642E46C847002F1B6E"
-            BuildableName = "RSParser_Mac.framework"
+            BlueprintIdentifier = "21E717272E47FA45003F245A"
+            BuildableName = "RSParser-Mac.framework"
             BlueprintName = "RSParser-Mac"
             ReferencedContainer = "container:RSParser.xcodeproj">
          </BuildableReference>
